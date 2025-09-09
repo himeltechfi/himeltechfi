@@ -54,7 +54,7 @@ I'm an active learner on platforms like **TryHackMe** and **Hack The Box**, cons
 [<img align="left" alt="himeltechfi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="himeltechfi | Twitter" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" />][X]
 
-[linkedin]: https://www.linkedin.com/in/himel-syed/
+[linkedin]: https://www.linkedin.com/in/himeltech/
 [facebook]: https://www.facebook.com/himeltechfi
 [instagram]: https://www.instagram.com/himeltechfi/
 [youtube]: https://www.youtube.com/c/himeltechfi
