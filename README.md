@@ -48,6 +48,8 @@ I'm an active learner on platforms like **TryHackMe** and **Hack The Box**, cons
 
 <h2>🤝Connect with me</h2>
 
+**Email:** himeltechfi@gmail.com 
+
 [<img align="left" alt="himeltechfi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="himeltechfi | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="himeltechfi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
