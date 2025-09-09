@@ -1,42 +1,75 @@
-<h1>Hi, I'm Himel! <br/><a, <a href="https://www.linkedin.com/in/himel-syed/">Cybersecurity Professional</a>
+<h1>Hi, I'm Himel! 👋<br/><a href="https://www.linkedin.com/in/himel-syed/">Cybersecurity Specialist🔒</a></h1>
 
-<h2>👨‍💻Cybersecurity Projects:</h2>
+I'm a proactive **Cybersecurity Specialist** with a passion for securing digital environments. My expertise spans both **cyber defense** and **penetration testing**, backed by hands-on experience building a **Cyber Defense Lab** to create attack and defense simulations.
 
-- <b>Active Directory</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+I'm an active learner on platforms like **TryHackMe** and **Hack The Box**, constantly challenging myself to stay ahead of evolving threats. I'm actively seeking opportunities to apply my proactive mindset and practical skills to help secure an organization's assets.
+
+---
+
+### What I'm up to...
+
+- 🔭 **I'm currently working on**: A freelancing penetration testing project. 
+- 🌱 **I'm currently learning**: About cloud security and AI.
+- 👯 **I'm looking to collaborate on**: Cybersecurity and networking projects.
+- ⚡ **Fun fact**: I built a Cyber Defense Lab for my peers to practice attack and defense simulations.
+- 💬 **Ask me about**: Network analysis, malware analysis, and Cybersecurity. 
+
+---
+
+<h2>🔒Cybersecurity Projects:</h2>
+
+- <b>Building Lab Environment</b>
+  - [Installing Virtual Linux OS](https://github.com/himeltechfi/4chan-Image-Analysis-Middleware-C964) <b><i>(Hyper-V  Manager)</b></i>
+
+- <b>Penetration testing</b>
+  - [Scanning for common vulnerabilities](https://github.com/himeltechfi/AD_PS)
+
+- <b>Malware Analysis</b>
+  - [Finding suspecious files](https://github.com/himeltechfi/Package-Delivery-Pathfinding-Algorithm)
+
+
+<h2>🌐Networking & IoT Projects:</h2>
+
+- <b>Networking Basic</b>
+  - [Creating Network from scretch](https://github.com/himeltechfi/Package-Delivery-Pathfinding-Algorithm)
+
+- <b>IoT Basic</b>
+  - [Finding suspecious files](https://github.com/himeltechfi/Package-Delivery-Pathfinding-Algorithm)
   
-- <b>PowerShell</b>
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺Certifications</h2>
+<h2>💻Programming and Others:</h2>
 
-- [Certified Ethical Hacking](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- <b>Game Development Project with C++</b>
+  - [Build your own game](https://github.com/himeltechfi/Package-Delivery-Pathfinding-Algorithm)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🏅Certifications</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- [Certified Ethical Hacking](https://www.youtu?v=a83ASGn_V_s)
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+<h2>🤝Connect with me</h2>
+
+[<img align="left" alt="himeltechfi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="himeltechfi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="himeltechfi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="himeltechfi | Twitter" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" />][X]
+
 [linkedin]: https://www.linkedin.com/in/himel-syed/
+[instagram]: https://www.instagram.com/himeltechfi/
+[youtube]: https://www.youtube.com/c/himeltechfi
+[x]: https://x.com/himeltechfi
+
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**himeltechfi/himeltechfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### What I'm up to...
+- 🔭 **I'm currently working on**: A penetration testing suite using Python and Scapy.
+- 🌱 **I'm currently learning**: About cloud security and DevSecOps principles.
+- 👯 **I'm looking to collaborate on**: Open-source cybersecurity tools.
+- 🤔 I’m looking for help with: Collaborating on open-source cybersecurity projects.
+- 💬 **Ask me about**: Network analysis, malware analysis, or career advice in cybersecurity.
+- 📫 How to reach me: The best way to reach me is through my LinkedIn profile.
+- 😄 **Pronouns**: He/Him
+- ⚡ **Fun fact**: I built a Cyber Defense Lab for my peers to practice attack and defense simulations.
+ 
 -->
