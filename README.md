@@ -42,6 +42,8 @@ I'm an active learner on platforms like **TryHackMe** and **Hack The Box**, cons
 
 - <b>Game Development Project with C++</b>
   - [Build your own game](https://github.com/himeltechfi/Package-Delivery-Pathfinding-Algorithm)
+- <b>C++ String Manipulator</b>
+  - [String manipulation project](https://github.com/himeltechfi/cpp-string-manipulator/tree/main)
 
 <h2>🏅Certifications</h2>
 
