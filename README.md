@@ -40,6 +40,8 @@ I'm an active learner on platforms like **TryHackMe** and **Hack The Box**, cons
 
 <h2>💻Programming and Others:</h2>
 
+- <b>Vulnerability Fix Challenge</b>
+  - [Vulnerability fixing in cpp](https://github.com/himeltechfi/vulnerability-fixing-in-cpp/tree/main)
 - <b>Game Development Project with C++</b>
   - [Build your own game](https://github.com/himeltechfi/Package-Delivery-Pathfinding-Algorithm)
 - <b>C++ String Manipulator</b>
@@ -47,7 +49,8 @@ I'm an active learner on platforms like **TryHackMe** and **Hack The Box**, cons
 - <b>C++ Anagram Solver</b>
   - [Anagram-solver project](https://github.com/himeltechfi/anagram-solver/tree/main)
 
-https://github.com/himeltechfi/anagram-solver/tree/main
+
+
 <h2>🏅Certifications</h2>
 
 - [Certified Ethical Hacking](https://www.youtu?v=a83ASGn_V_s)
