@@ -45,7 +45,7 @@ I'm an active learner on platforms like **TryHackMe** and **Hack The Box**, cons
 - <b>Error Handling & Refactoring</b>
   - [Fixing Code Bugs](https://github.com/himeltechfi/error-handling-refactoring-cpp/tree/main)
 - <b>Game Development Project</b>
-  - [Build your own game](https://github.com/himeltechfi/Package-Delivery-Pathfinding-Algorithm)
+  - [2D Fighting Game Project](https://github.com/himeltechfi/2d-fighting-game-project)
 - <b>String Manipulator</b>
   - [String manipulation project](https://github.com/himeltechfi/cpp-string-manipulator/tree/main)
 - <b>Anagram Solver</b>
