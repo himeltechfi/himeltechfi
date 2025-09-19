@@ -41,12 +41,14 @@ I'm an active learner on platforms like **TryHackMe** and **Hack The Box**, cons
 <h2>💻Programming and Others:</h2>
 
 - <b>Vulnerability Fix Challenge</b>
-  - [Vulnerability fixing in cpp](https://github.com/himeltechfi/vulnerability-fixing-in-cpp/tree/main)
-- <b>Game Development Project with C++</b>
+  - [Vulnerability fixing](https://github.com/himeltechfi/vulnerability-fixing-in-cpp/tree/main)
+- <b>Error Handling & Refactoring</b>
+  - [Fixing Code Bugs](https://github.com/himeltechfi/error-handling-refactoring-cpp/tree/main)
+- <b>Game Development Project</b>
   - [Build your own game](https://github.com/himeltechfi/Package-Delivery-Pathfinding-Algorithm)
-- <b>C++ String Manipulator</b>
+- <b>String Manipulator</b>
   - [String manipulation project](https://github.com/himeltechfi/cpp-string-manipulator/tree/main)
-- <b>C++ Anagram Solver</b>
+- <b>Anagram Solver</b>
   - [Anagram-solver project](https://github.com/himeltechfi/anagram-solver/tree/main)
 - <b>ConvertWorld</b>
   - [Convert-world project](https://github.com/himeltechfi/convertworld-cpp/tree/main)
