@@ -54,6 +54,9 @@ I'm an active learner on platforms like **TryHackMe** and **Hack The Box**, cons
   - [Convert-world project](https://github.com/himeltechfi/convertworld-cpp/tree/main)
 - <b>Painting Canvas</b>
   - [Painting Canvas project](https://github.com/himeltechfi/painting-canvas/tree/main)  
+- <b>Smart Restaurant Automation: A Robot Waiter Concept</b>
+  - [Robot waiter project](https://github.com/himeltechfi/robot-waiter-design)  
+
 
 <h2>🏅Certifications</h2>
 
