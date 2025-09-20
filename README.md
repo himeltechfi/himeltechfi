@@ -52,7 +52,8 @@ I'm an active learner on platforms like **TryHackMe** and **Hack The Box**, cons
   - [Anagram-solver project](https://github.com/himeltechfi/anagram-solver/tree/main)
 - <b>ConvertWorld</b>
   - [Convert-world project](https://github.com/himeltechfi/convertworld-cpp/tree/main)
-
+- <b>Painting Canvas</b>
+  - [Painting Canvas project](https://github.com/himeltechfi/painting-canvas/tree/main)  
 
 <h2>🏅Certifications</h2>
 
